@@ -1,0 +1,11 @@
+.nav_is_active {
+    color: rgb(5, 0, 63);
+}
+
+.has_image {
+    /* width: 100%;
+    height: 100%;
+    object-fit: fill; */
+    height: 90%;
+    position: relative;
+}

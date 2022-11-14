@@ -1,0 +1,50 @@
+/* NAV */
+#nav {
+    /* position: fixed; */
+    /* width: 100%; */
+    padding: 1% 0;
+    height: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#nav, #nav * {
+    /* margin: 1% 30%; */
+    background-color: rgb(0, 102, 161);
+    font-size: 1.3em;
+    width: 100%;
+}
+
+#nav span {
+    cursor: pointer;
+    margin: 0 5%;
+}
+
+#nav span:hover {
+    color: rgb(5, 0, 63);
+}
+/* NAV */
+
+
+/* CONTENT */
+#content {
+    /* padding-top: 4.7%; */
+}
+/* CONTENT */
+
+
+/* FOOTER */
+#footer {
+    height: 3%;
+}
+
+#footer * {
+    background-color: rgb(0, 102, 161);
+    /* bottom: 0; */
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+/* FOOTER */
